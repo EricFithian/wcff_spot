@@ -1,0 +1,1 @@
+web: gunicorn wcff_spotify.wsgi
